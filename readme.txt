@@ -7,3 +7,4 @@ Git tracks changes of files.
 add.
 1
 2
+3
